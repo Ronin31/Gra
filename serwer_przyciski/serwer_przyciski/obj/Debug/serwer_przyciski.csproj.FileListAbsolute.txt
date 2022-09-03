@@ -1,0 +1,22 @@
+C:\Users\Szymon\source\repos\serwer_przyciski\serwer_przyciski\bin\Debug\serwer_przyciski.exe.config
+C:\Users\Szymon\source\repos\serwer_przyciski\serwer_przyciski\bin\Debug\serwer_przyciski.exe
+C:\Users\Szymon\source\repos\serwer_przyciski\serwer_przyciski\bin\Debug\serwer_przyciski.pdb
+C:\Users\Szymon\source\repos\serwer_przyciski\serwer_przyciski\obj\Debug\serwer_przyciski.csproj.AssemblyReference.cache
+C:\Users\Szymon\source\repos\serwer_przyciski\serwer_przyciski\obj\Debug\serwer_przyciski.csproj.SuggestedBindingRedirects.cache
+C:\Users\Szymon\source\repos\serwer_przyciski\serwer_przyciski\obj\Debug\serwer_przyciski.Form1.resources
+C:\Users\Szymon\source\repos\serwer_przyciski\serwer_przyciski\obj\Debug\serwer_przyciski.Properties.Resources.resources
+C:\Users\Szymon\source\repos\serwer_przyciski\serwer_przyciski\obj\Debug\serwer_przyciski.csproj.GenerateResource.cache
+C:\Users\Szymon\source\repos\serwer_przyciski\serwer_przyciski\obj\Debug\serwer_przyciski.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\source\repos\serwer_przyciski\serwer_przyciski\obj\Debug\serwer_przyciski.exe
+C:\Users\Szymon\source\repos\serwer_przyciski\serwer_przyciski\obj\Debug\serwer_przyciski.pdb
+C:\Users\Paweł\Desktop\Nowy folder (10)\serwer_przyciski\serwer_przyciski\bin\Debug\serwer_przyciski.exe.config
+C:\Users\Paweł\Desktop\Nowy folder (10)\serwer_przyciski\serwer_przyciski\bin\Debug\serwer_przyciski.exe
+C:\Users\Paweł\Desktop\Nowy folder (10)\serwer_przyciski\serwer_przyciski\bin\Debug\serwer_przyciski.pdb
+C:\Users\Paweł\Desktop\Nowy folder (10)\serwer_przyciski\serwer_przyciski\obj\Debug\serwer_przyciski.csproj.AssemblyReference.cache
+C:\Users\Paweł\Desktop\Nowy folder (10)\serwer_przyciski\serwer_przyciski\obj\Debug\serwer_przyciski.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paweł\Desktop\Nowy folder (10)\serwer_przyciski\serwer_przyciski\obj\Debug\serwer_przyciski.Form1.resources
+C:\Users\Paweł\Desktop\Nowy folder (10)\serwer_przyciski\serwer_przyciski\obj\Debug\serwer_przyciski.Properties.Resources.resources
+C:\Users\Paweł\Desktop\Nowy folder (10)\serwer_przyciski\serwer_przyciski\obj\Debug\serwer_przyciski.csproj.GenerateResource.cache
+C:\Users\Paweł\Desktop\Nowy folder (10)\serwer_przyciski\serwer_przyciski\obj\Debug\serwer_przyciski.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\Desktop\Nowy folder (10)\serwer_przyciski\serwer_przyciski\obj\Debug\serwer_przyciski.exe
+C:\Users\Paweł\Desktop\Nowy folder (10)\serwer_przyciski\serwer_przyciski\obj\Debug\serwer_przyciski.pdb

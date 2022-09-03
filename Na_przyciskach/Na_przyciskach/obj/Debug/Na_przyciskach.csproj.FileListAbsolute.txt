@@ -1,0 +1,22 @@
+C:\Users\Szymon\source\repos\Na_przyciskach\Na_przyciskach\bin\Debug\Na_przyciskach.exe.config
+C:\Users\Szymon\source\repos\Na_przyciskach\Na_przyciskach\bin\Debug\Na_przyciskach.exe
+C:\Users\Szymon\source\repos\Na_przyciskach\Na_przyciskach\bin\Debug\Na_przyciskach.pdb
+C:\Users\Szymon\source\repos\Na_przyciskach\Na_przyciskach\obj\Debug\Na_przyciskach.csproj.AssemblyReference.cache
+C:\Users\Szymon\source\repos\Na_przyciskach\Na_przyciskach\obj\Debug\Na_przyciskach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Szymon\source\repos\Na_przyciskach\Na_przyciskach\obj\Debug\Na_przyciskach.Form1.resources
+C:\Users\Szymon\source\repos\Na_przyciskach\Na_przyciskach\obj\Debug\Na_przyciskach.Properties.Resources.resources
+C:\Users\Szymon\source\repos\Na_przyciskach\Na_przyciskach\obj\Debug\Na_przyciskach.csproj.GenerateResource.cache
+C:\Users\Szymon\source\repos\Na_przyciskach\Na_przyciskach\obj\Debug\Na_przyciskach.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\source\repos\Na_przyciskach\Na_przyciskach\obj\Debug\Na_przyciskach.exe
+C:\Users\Szymon\source\repos\Na_przyciskach\Na_przyciskach\obj\Debug\Na_przyciskach.pdb
+C:\Users\Paweł\Desktop\Nowy folder (9)\Na_przyciskach\Na_przyciskach\obj\Debug\Na_przyciskach.csproj.AssemblyReference.cache
+C:\Users\Paweł\Desktop\Nowy folder (9)\Na_przyciskach\Na_przyciskach\obj\Debug\Na_przyciskach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paweł\Desktop\Nowy folder (9)\Na_przyciskach\Na_przyciskach\obj\Debug\Na_przyciskach.Form1.resources
+C:\Users\Paweł\Desktop\Nowy folder (9)\Na_przyciskach\Na_przyciskach\obj\Debug\Na_przyciskach.Properties.Resources.resources
+C:\Users\Paweł\Desktop\Nowy folder (9)\Na_przyciskach\Na_przyciskach\obj\Debug\Na_przyciskach.csproj.GenerateResource.cache
+C:\Users\Paweł\Desktop\Nowy folder (9)\Na_przyciskach\Na_przyciskach\obj\Debug\Na_przyciskach.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\Desktop\Nowy folder (9)\Na_przyciskach\Na_przyciskach\bin\Debug\labe.exe.config
+C:\Users\Paweł\Desktop\Nowy folder (9)\Na_przyciskach\Na_przyciskach\bin\Debug\labe.exe
+C:\Users\Paweł\Desktop\Nowy folder (9)\Na_przyciskach\Na_przyciskach\bin\Debug\labe.pdb
+C:\Users\Paweł\Desktop\Nowy folder (9)\Na_przyciskach\Na_przyciskach\obj\Debug\labe.exe
+C:\Users\Paweł\Desktop\Nowy folder (9)\Na_przyciskach\Na_przyciskach\obj\Debug\labe.pdb
